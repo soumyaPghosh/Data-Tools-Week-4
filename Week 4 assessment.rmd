@@ -21,14 +21,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Application
 
- - The second half of the mentioned assignment was to develop a web application. The application was named ***MPG Prediction***. An instance is up & running at <https://laplata2003.shinyapps.io/data-products-week-4-project/>.
+ - The second half of the mentioned assignment was to develop a web application. The application was named ***MPG Prediction***. An instance is up & running at <https://soumyapghosh-tutorial.shinyapps.io/dt_week4/>.
  
 
  - This application shows an example of making a web application using R and [Shiny](https://shiny.rstudio.com) framework together.
  
  - In the application, a prediction model is generated, based on a car parameters dataset (HP, weight, gears, etc.). Then, a user can play freely with the UI values in order to simulate the parameters of an hypothetical car and be able to predict its MPG consumption.
  
- - The application and the current presentation source codes can be found at <https://github.com/laplata2003/data-products-week-4-project>. The application comprises 3 files: *ui.R* (UI), *server.R* (backend) and *modelBuilding.R* (Random Forest predictor).
+ - The application and the current presentation source codes can be found at <https://github.com/soumyaPghosh/Data-Tools-Week-4>. The application comprises 3 files: *ui.R* (UI), *server.R* (backend) and *modelBuilding.R* (Random Forest predictor).
   
 ## Dataset
 
